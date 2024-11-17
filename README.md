@@ -62,4 +62,18 @@ optimizing resource allocation and strategic planning.</p>
 
 <img width="600" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/d98ca118-da37-4a00-b5c5-d47f7fc6819d">
 
+<h2 align="left">Business Statement 4</h2>
+
+<p align="justify">Spotify Analysis - There is an experiencing challenge in effectively analyzing and managing its vast amount of streaming data. There is a need for an interactive and comprehensive dashboard that consolidates all relevant streaming metrics, provides real-time updates, and enhances data accessibility for stakeholders.</p>
+
+<h2 align="left">Business Solution</h2>
+
+<p align="justify"> - Created a comprehensive Spotify analysis dashboard that tracks Total Streams, Total Tracks, Average Streams, Top Artists by Streams, Streams by Year, Streams by Quarter, Top 10 Artists by Streams, Streams by Month,Number of Tracks, and Average Streams using Power BI.</p>
+
+<p align="justify"> - Implemented real-time data updates and interactive features, improving data accessibility for stakeholders.</p>
+
+<p align="justify"> - Analyzed streaming data to identify trends, top-performing artists, and opportunities for optimizing content strategy and user engagement.</p>
+
+<img width="600" alt="Spotify Analysis" src="https://github.com/user-attachments/assets/86f9be5a-f376-480a-82eb-5e74c969a108">
+
 
