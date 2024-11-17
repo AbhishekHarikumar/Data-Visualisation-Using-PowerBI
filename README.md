@@ -32,4 +32,4 @@ accessibility for stakeholders.</p>
 management.</p>
 
 
-<img width="1000" alt="CoffeeSales" src="https://github.com/user-attachments/assets/6a202d0b-b5c1-4aa1-ae75-07cad2262933">
+<img width="600" alt="CoffeeSales" src="https://github.com/user-attachments/assets/6a202d0b-b5c1-4aa1-ae75-07cad2262933">
