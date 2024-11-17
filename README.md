@@ -21,11 +21,15 @@
 <p align="justify">Coffee Sales - The coffee chain company is experiencing challenges in effectively tracking and managing sales performance across multiple locations. Needs a comprehensive and interactive dashboard that consolidates sales data from all locations, provides real- time updates, and enhances data accessibility to improve overall sales performance and inventory management.</p>
 
 <h2 align="left">Business Solution</h2>
-- Created a comprehensive dashboard to track coffee sales across multiple
-locations using Power BI.
-- Implemented real-time data updates and interactive features, improving
-accessibility for stakeholders.
-- Analyzed sales data to identify opportunities for growth and optimize inventory
-management.
 
-<img width="589" alt="CoffeeSales" src="https://github.com/user-attachments/assets/6a202d0b-b5c1-4aa1-ae75-07cad2262933">
+<p align="justify">- Created a comprehensive dashboard to track coffee sales across multiple
+locations using Power BI.</p>
+
+<p align="justify">- Implemented real-time data updates and interactive features, improving
+accessibility for stakeholders.</p>
+
+<p align="justify">- Analyzed sales data to identify opportunities for growth and optimize inventory
+management.</p>
+
+
+<img width="600" alt="CoffeeSales" src="https://github.com/user-attachments/assets/6a202d0b-b5c1-4aa1-ae75-07cad2262933">
