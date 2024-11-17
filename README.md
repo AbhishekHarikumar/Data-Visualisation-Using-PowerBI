@@ -76,4 +76,18 @@ optimizing resource allocation and strategic planning.</p>
 
 <img width="600" alt="Spotify Analysis" src="https://github.com/user-attachments/assets/86f9be5a-f376-480a-82eb-5e74c969a108">
 
+<h2 align="left">Business Statement 5</h2>
+
+<p align="justify">Netflix Analysis - There are challenges in effectively analyzing and managing its extensive catalog of titles across various dimensions such as ratings, genres, and countries.There is a need for an interactive and comprehensive dashboard that consolidates all relevant Netflix title metrics, provides real-time updates, and enhances data accessibility for stakeholders.</p>
+
+<h2 align="left">Business Solution</h2>
+
+<p align="justify"> - Created a comprehensive Netflix dashboard that tracks the Number of Titles by Rating Group, Country, Titles, Average Rating and Votes, Average Rating and Number of Titles by Genre, Country and Number of Titles, Title, Cover Page, Average Rating and Votes, and Description using Power BI.</p>
+
+<p align="justify"> - Implemented real-time data updates and interactive features, improving data accessibility for stakeholders. Analyzed Netflix data to identify trends, top-performing genres, and opportunities for optimizing content strategy and user engagement.</p>
+
+<img width="971" alt="Netflix Dashboard" src="https://github.com/user-attachments/assets/94066e08-26cb-4f96-a519-56e54b71f6ad">
+
+
+
 
