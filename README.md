@@ -14,7 +14,6 @@
 <h2 align="left">Tech Stack</h2>
 
 - Microsoft Power BI
-- Microsoft Excel
 
 <h2 align="left">Business Statement 1</h2>
 
@@ -88,6 +87,19 @@ optimizing resource allocation and strategic planning.</p>
 
 <img width="600" alt="Netflix Dashboard" src="https://github.com/user-attachments/assets/94066e08-26cb-4f96-a519-56e54b71f6ad">
 
+<h2 align="left">References</h2>
 
+[1] - https://youtu.be/InYxu2h7o6I?si=rLvufvDQWS1vKRb8
 
+[2] - https://www.youtube.com/watch?v=pC1gQL-b6b8
+
+[3] - https://www.youtube.com/watch?v=zMrmSctNCbE
+
+[4] - https://www.youtube.com/watch?v=qjjt87YoOMg
+
+[5] - https://www.youtube.com/watch?v=qjjt87YoOMg
+
+[6] - Kaggle
+
+[7] - Onyx
 
