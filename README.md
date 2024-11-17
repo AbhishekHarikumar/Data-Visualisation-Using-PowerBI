@@ -86,7 +86,7 @@ optimizing resource allocation and strategic planning.</p>
 
 <p align="justify"> - Implemented real-time data updates and interactive features, improving data accessibility for stakeholders. Analyzed Netflix data to identify trends, top-performing genres, and opportunities for optimizing content strategy and user engagement.</p>
 
-<img width="971" alt="Netflix Dashboard" src="https://github.com/user-attachments/assets/94066e08-26cb-4f96-a519-56e54b71f6ad">
+<img width="600" alt="Netflix Dashboard" src="https://github.com/user-attachments/assets/94066e08-26cb-4f96-a519-56e54b71f6ad">
 
 
 
