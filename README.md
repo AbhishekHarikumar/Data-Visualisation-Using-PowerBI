@@ -28,4 +28,4 @@ accessibility for stakeholders.
 - Analyzed sales data to identify opportunities for growth and optimize inventory
 management.
 
-<img src='/Users/abhishekharikumarnarayanan/Desktop/Unknown docs/Screenshot 2024-06-29 at 20.40.46.png' alt="Your Profile Banner" width="50%">
+<img src=''/Users/abhishekharikumarnarayanan/Desktop/Unknown docs/CoffeeSales.png' width="50%">
