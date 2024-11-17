@@ -9,4 +9,4 @@
 <p align="justify"> To build a series of dashbords that showcases the following skill set:</p>
   <p align="justify"> - Accurate and Effective Identification of Pain Points and Areas of Improvement.</p>
   <p align="justify"> - Strong Visulisation Capabilities - ability to present in a clear and concise manner.</p>
-  <p align="justify"> - <p align="justify">To showcase efficient problem solving ability through visulisation.</p>
+  <p align="justify"> - To showcase efficient problem solving ability through visulisation.</p>
