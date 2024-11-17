@@ -10,3 +10,8 @@
   <p align="justify"> - Accurate and Effective Identification of Pain Points and Areas of Improvement.</p>
   <p align="justify"> - Strong Visulisation Capabilities - ability to present in a clear and concise manner.</p>
   <p align="justify"> - To showcase efficient problem solving ability through visulisation.</p>
+
+<h2 align="left">Tech Stack</h2>
+
+- Microsoft Power BI
+- Microsoft Excel
