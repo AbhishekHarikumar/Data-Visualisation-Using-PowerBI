@@ -50,4 +50,16 @@ optimizing resource allocation and strategic planning.</p>
 
 <img width="600" alt="ElectricCarSales" src="https://github.com/user-attachments/assets/687599b6-ca18-4eb4-868f-5b95731a88fd">
 
+<h2 align="left">Business Statement 3</h2>
+
+<p align="justify">Sales Analysis - The Sales company is facing difficulties in tracking and managing sales performance due to fragmented data across various dimensions such as regions, products, and time periods. This disjointed data hinders the ability of stakeholders to gain comprehensive insights into revenue trends, product performance, and regional contributions. Consequently, strategic decision-making and resource allocation are compromised. There is a critical need for an integrated and interactive sales dashboard that consolidates all relevant sales metrics, provides real-time updates, and improves data accessibility for stakeholders to enhance overall sales performance and drive business growth.</p>
+
+<h2 align="left">Business Solution</h2>
+
+<p align="justify">- Created a comprehensive sales dashboard that tracks Total Revenue by region, Total Revenue by products and rank, Total Revenue by Quarter, Total Revenue and revenue by month, Average Revenue by country and region, Total Revenue by quarter, and Total Transactions using Power BI.</p>
+
+<p align="justify">- Implemented real-time data updates and interactive features, improving data accessibility for stakeholders.Analyzed sales data to identify trends, opportunities for growth, and areas for optimizing resource allocation and strategic planning.</p>
+
+<img width="600" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/d98ca118-da37-4a00-b5c5-d47f7fc6819d">
+
 
