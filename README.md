@@ -33,3 +33,21 @@ management.</p>
 
 
 <img width="600" alt="CoffeeSales" src="https://github.com/user-attachments/assets/6a202d0b-b5c1-4aa1-ae75-07cad2262933">
+
+<h2 align="left">Business Statement 2</h2>
+
+<p align="justify">Electric Vehicle Analysis- The electric vehicle (EV) market is rapidly growing, and stakeholders need a robust system to effectively track and manage sales performance across various dimensions, including city, electric utility, vehicle type, and other relevant metrics.</p>
+
+<h2 align="left">Business Solution</h2>
+
+<p align="justify">- Created a comprehensive dashboard to track electric vehicle sales data, detailing city, electric utility, electric vehicle type, average range, total miles, total number of vehicles by electric type, total vehicles by clean alternative fuel, total vehicles by model, and total vehicles by state using Power BI.</p>
+
+<p align="justify">- Implemented real-time data updates and interactive features, improving
+accessibility for stakeholders.</p>
+
+<p align="justify">- Analyzed sales data to identify trends, opportunities for growth, and areas for
+optimizing resource allocation and strategic planning.</p>
+
+<img width="600" alt="ElectricCarSales" src="https://github.com/user-attachments/assets/687599b6-ca18-4eb4-868f-5b95731a88fd">
+
+
