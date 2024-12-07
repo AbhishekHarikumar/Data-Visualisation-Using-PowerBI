@@ -1,4 +1,4 @@
-# Data Visualisation
+# Data Visualisation using Power BI
 
 <h2 align="left">Executive Summary</h2>
 
