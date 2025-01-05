@@ -1,4 +1,4 @@
-# Data Visualisation using Power BI
+# Data Visualisation using Power BI, Looker & Data Studio
 
 <h2 align="left">Executive Summary</h2>
 
@@ -86,6 +86,14 @@ optimizing resource allocation and strategic planning.</p>
 <p align="justify"> - Implemented real-time data updates and interactive features, improving data accessibility for stakeholders. Analyzed Netflix data to identify trends, top-performing genres, and opportunities for optimizing content strategy and user engagement.</p>
 
 <img width="600" alt="Netflix Dashboard" src="https://github.com/user-attachments/assets/94066e08-26cb-4f96-a519-56e54b71f6ad">
+
+<h2 align="left">Business Statement 6</h2>
+
+<p align="justify">Orders Analysis - There are challenges in effectively analyzing the orders, from where they originated, which state, which city, which country and who are the top customers based on order count.There is a need for an interactive and comprehensive dashboard that consolidates all the mentioned information, provides real-time updates, and enhances data accessibility for stakeholders.</p>
+
+<p align="justify"> - Created a comprehensive Orders dashboard that tracks all the information based on the mentioned above metrics to satisfy requirments using Looker Studio.</p>
+
+<img width="600" alt="OrdersDashboard" src="https://github.com/user-attachments/assets/e86abb90-dc47-4dd3-8246-72d516768325">
 
 <h2 align="left">References</h2>
 
