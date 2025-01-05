@@ -89,9 +89,7 @@ optimizing resource allocation and strategic planning.</p>
 
 <h2 align="left">Business Statement 6</h2>
 
-<p align="justify">Orders Analysis - There are challenges in effectively analyzing the orders, from where they originated, which state, which city, which country and who are the top customers based on order count.There is a need for an interactive and comprehensive dashboard that consolidates all the mentioned information, provides real-time updates, and enhances data accessibility for stakeholders.</p>
-
-<p align="justify"> - Created a comprehensive Orders dashboard that tracks all the information based on the mentioned above metrics to satisfy requirments using Looker Studio.</p>
+<p align="justify">Effectively analysing orders presents challenges, including identifying their origin by state, city, and country, as well as determining the top customers based on order count. There is a need for an interactive and comprehensive dashboard that consolidates this information, provides real-time updates, and enhances data accessibility for stakeholders.</p> <p align="justify">To address these requirements, I developed a detailed Orders dashboard using Looker Studio. The dashboard tracks all relevant metrics, providing stakeholders with a streamlined and insightful tool to monitor order data efficiently.</p>
 
 <img width="600" alt="OrdersDashboard" src="https://github.com/user-attachments/assets/e86abb90-dc47-4dd3-8246-72d516768325">
 
@@ -110,4 +108,6 @@ optimizing resource allocation and strategic planning.</p>
 [6] - Kaggle
 
 [7] - Onyx
+
+[8] - https://www.youtube.com/watch?v=mYet7g4CvFQ
 
